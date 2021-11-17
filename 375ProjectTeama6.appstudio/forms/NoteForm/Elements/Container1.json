@@ -17,7 +17,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "Form1",
+        "NoteForm",
         "Elements",
         "Note1.json"
       ]
@@ -26,9 +26,18 @@
       "!type": "External",
       "file": [
         "forms",
-        "Form1",
+        "NoteForm",
         "Elements",
         "Note2.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "NoteForm",
+        "Elements",
+        "Note3.json"
       ]
     }
   ],

@@ -14,7 +14,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "Form1",
+        "NoteForm",
         "Elements",
         "Container1.json"
       ]
@@ -23,16 +23,16 @@
       "!type": "External",
       "file": [
         "forms",
-        "Form1",
+        "NoteForm",
         "Elements",
-        "Header1.json"
+        "NoteHeader.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "Form1",
+        "NoteForm",
         "Elements",
         "AddBtn.json"
       ]
@@ -41,7 +41,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "Form1",
+        "NoteForm",
         "Elements",
         "NoteText.json"
       ]
@@ -50,7 +50,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "Form1",
+        "NoteForm",
         "Elements",
         "DeleteBtn.json"
       ]
@@ -62,7 +62,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": "500",
-  "id": "Form1",
+  "id": "NoteForm",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
