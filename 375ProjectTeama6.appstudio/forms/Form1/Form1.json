@@ -2,20 +2,66 @@
   "!type": "Form",
   "HTML": null,
   "attributes": "",
-  "background": "",
+  "background": "#ffffff",
   "backgroundimage": "",
   "borderColor": "",
   "borderStyle": "",
   "borderWidth": "",
   "cached_js": null,
   "cached_js_script_hash": null,
-  "children": [],
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Form1",
+        "Elements",
+        "Container1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Form1",
+        "Elements",
+        "Header1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Form1",
+        "Elements",
+        "AddBtn.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Form1",
+        "Elements",
+        "NoteText.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Form1",
+        "Elements",
+        "DeleteBtn.json"
+      ]
+    }
+  ],
   "class": "",
-  "designHeight": 0,
-  "designWidth": 0,
+  "designHeight": 700,
+  "designWidth": 700,
   "expanded_pmp": null,
   "fullScreen": "true",
-  "height": 460,
+  "height": "500",
   "id": "Form1",
   "language": "JavaScript",
   "left": "0",
@@ -33,5 +79,5 @@
   "style": "",
   "theme": "",
   "top": "0",
-  "width": 320
+  "width": "500"
 }

@@ -1,1 +1,4 @@
-// This is your blank starting team project - Dr. C
+
+AddButton.onclick=function(){
+  NoteText.value = Note1.value
+}
