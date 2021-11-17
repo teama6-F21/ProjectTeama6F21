@@ -54,6 +54,15 @@
         "Elements",
         "DeleteBtn.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "NoteForm",
+        "Elements",
+        "Label1.json"
+      ]
     }
   ],
   "class": "",

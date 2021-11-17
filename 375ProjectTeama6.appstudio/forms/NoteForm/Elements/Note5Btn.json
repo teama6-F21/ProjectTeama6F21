@@ -28,7 +28,7 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "Note2",
+  "id": "Note5Btn",
   "left": "auto",
   "mAll": "",
   "mBottom": "",
@@ -61,6 +61,6 @@
   "style": "",
   "toggleControl": "",
   "top": "auto",
-  "value": "Note2",
+  "value": "Button",
   "width": "auto"
 }

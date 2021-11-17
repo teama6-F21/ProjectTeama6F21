@@ -19,7 +19,7 @@
         "forms",
         "NoteForm",
         "Elements",
-        "Note1.json"
+        "Note1Btn.json"
       ]
     },
     {
@@ -28,7 +28,7 @@
         "forms",
         "NoteForm",
         "Elements",
-        "Note2.json"
+        "Note2Btn.json"
       ]
     },
     {
@@ -37,7 +37,25 @@
         "forms",
         "NoteForm",
         "Elements",
-        "Note3.json"
+        "Note3Btn.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "NoteForm",
+        "Elements",
+        "NoteBtn4.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "NoteForm",
+        "Elements",
+        "Note5Btn.json"
       ]
     }
   ],
