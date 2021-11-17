@@ -50,6 +50,6 @@ btnLogIn.onclick=function(){
   } else {
     ChangeForm(newUser)
     }
-    inptUser.value = ''
-    inptPassword.value = ''
+    InpUsername.value = ''
+    InpPassword.value = ''
 }

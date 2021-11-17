@@ -1,4 +1,5 @@
- function start() {
+/*
+function start() {
         // Initializes the client with the API key and the Translate API.
         gapi.client.init({
           'apiKey': 'AIzaSyC2oQOOddwc-yU5tcAUg3TkvAhiLBZYpsY',
@@ -17,3 +18,4 @@
           console.log('Error: ' + reason.result.error.message);
         });
       };
+*/
