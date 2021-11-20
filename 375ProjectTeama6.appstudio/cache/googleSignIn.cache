@@ -2,7 +2,7 @@
 function start() {
         // Initializes the client with the API key and the Translate API.
         gapi.client.init({
-          'apiKey': 'AIzaSyC2oQOOddwc-yU5tcAUg3TkvAhiLBZYpsY',
+          'apiKey': '',
           'discoveryDocs': ['https://www.googleapis.com/discovery/v1/apis/translate/v2/rest'],
         }).then(function() {
           // Executes an API request, and returns a Promise.

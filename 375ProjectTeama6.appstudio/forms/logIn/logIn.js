@@ -53,3 +53,7 @@ btnLogIn.onclick=function(){
     inptUser.value = ''
     inptPassword.value = ''
 }
+
+btnGoToLanding.onclick=function(){
+  ChangeForm(landingPage)
+}

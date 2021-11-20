@@ -2,7 +2,7 @@
   "!type": "Form",
   "HTML": null,
   "attributes": "",
-  "background": "",
+  "background": "#2993F0",
   "backgroundimage": "",
   "borderColor": "",
   "borderStyle": "",
@@ -53,6 +53,33 @@
         "logIn",
         "Elements",
         "btnNewUser.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "logIn",
+        "Elements",
+        "lblProgress.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "logIn",
+        "Elements",
+        "btnGoToLanding.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "logIn",
+        "Elements",
+        "imgLogo.json"
       ]
     }
   ],
