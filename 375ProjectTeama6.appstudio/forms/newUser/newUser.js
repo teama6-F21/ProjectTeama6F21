@@ -43,3 +43,7 @@ btnCreateNewUser.onclick=function(){
         console.log("error")
  }
 
+
+btnReturnToLogin.onclick=function(){
+  ChangeForm(logIn)
+}

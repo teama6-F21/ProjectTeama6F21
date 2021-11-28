@@ -81,6 +81,15 @@
         "Elements",
         "btnCreateNewUser.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newUser",
+        "Elements",
+        "btnReturnToLogin.json"
+      ]
     }
   ],
   "class": "",
