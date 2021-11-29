@@ -2,21 +2,40 @@
   "!type": "Form",
   "HTML": null,
   "attributes": "",
-  "background": "",
+  "background": "#ffffff",
   "backgroundimage": "",
   "borderColor": "",
   "borderStyle": "",
   "borderWidth": "",
   "cached_js": null,
   "cached_js_script_hash": null,
-  "children": [],
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "calendarPage",
+        "Elements",
+        "HTMLview1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "calendarPage",
+        "Elements",
+        "btnToNotesForm.json"
+      ]
+    }
+  ],
   "class": "",
-  "designHeight": 0,
-  "designWidth": 0,
+  "designHeight": 320,
+  "designWidth": 400,
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "landingPage",
+  "id": "calendarPage",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
