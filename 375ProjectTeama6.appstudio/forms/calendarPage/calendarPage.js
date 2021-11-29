@@ -9,3 +9,6 @@
     }]
 })
    
+btnToNotesForm.onclick=function(){
+  ChangeForm(notesForm)
+}

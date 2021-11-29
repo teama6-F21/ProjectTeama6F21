@@ -2,7 +2,7 @@
   "!type": "Form",
   "HTML": null,
   "attributes": "",
-  "background": "#ffffff",
+  "background": "",
   "backgroundimage": "",
   "borderColor": "",
   "borderStyle": "",
@@ -14,37 +14,19 @@
       "!type": "External",
       "file": [
         "forms",
-        "calendarPage",
+        "notesForm",
         "Elements",
-        "HTMLview1.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "calendarPage",
-        "Elements",
-        "btnToNotesForm.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "calendarPage",
-        "Elements",
-        "lblWelcomeMessage.json"
+        "HTMLview2.json"
       ]
     }
   ],
   "class": "",
-  "designHeight": 460,
-  "designWidth": 400,
+  "designHeight": 800,
+  "designWidth": 0,
   "expanded_pmp": null,
   "fullScreen": "true",
-  "height": 460,
-  "id": "calendarPage",
+  "height": "800",
+  "id": "notesForm",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -61,5 +43,5 @@
   "style": "",
   "theme": "",
   "top": "0",
-  "width": "400"
+  "width": 320
 }
