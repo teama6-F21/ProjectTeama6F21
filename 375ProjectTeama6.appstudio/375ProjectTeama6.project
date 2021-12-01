@@ -26,6 +26,43 @@
             "Form1",
             "Form1.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "googleSignIn",
+            "googleSignIn.json"
+          ]
+        },
+        {
+          "!type": "Code",
+          "cached_js": null,
+          "cached_js_script_hash": null,
+          "children": [],
+          "expanded_pmp": null,
+          "id": "gSignIn",
+          "language": "JavaScript",
+          "loadType": "",
+          "obfuscate": "false",
+          "script": null,
+          "src": ""
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "logIn",
+            "logIn.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "newUser",
+            "newUser.json"
+          ]
         }
       ],
       "configxml": null,
@@ -47,7 +84,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "logIn",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
@@ -111,7 +148,9 @@
   "filename": "",
   "id": "",
   "language_version": 8,
-  "libraries": [],
+  "libraries": [
+    "Google Drive"
+  ],
   "phonegap_auth_token": "",
   "phonegap_email": "",
   "phonegap_password": "",
