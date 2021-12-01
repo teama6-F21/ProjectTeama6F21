@@ -48,7 +48,7 @@ btnLogIn.onclick=function(){
   if (logInData.length == 0) {
     txtHeader.value = "There are no customers found."
   } else {
-    ChangeForm(landingPage)
+    ChangeForm(calendarPage)
     }
     inptUser.value = ''
     inptPassword.value = ''
