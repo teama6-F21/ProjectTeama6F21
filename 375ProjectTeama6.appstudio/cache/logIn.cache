@@ -31,7 +31,7 @@ btnLogIn.onclick=function(){
   let userName = inptUser.value
   let password = inptPassword.value
   //erase header
-  txtHeader.value = ''
+  //txtHeader.value = ''
   //query the data
  //checks to see if username and password match up
   query = "SELECT first_name, last_name, username, password FROM user WHERE username = '" + userName + "' AND password = '" + password + "'"
@@ -48,8 +48,12 @@ btnLogIn.onclick=function(){
   if (logInData.length == 0) {
     txtHeader.value = "There are no customers found."
   } else {
-    ChangeForm(newUser)
+    ChangeForm(landingPage)
     }
     inptUser.value = ''
     inptPassword.value = ''
+}
+
+btnNewUser.onclick=function(){
+  ChangeForm(newUser)
 }

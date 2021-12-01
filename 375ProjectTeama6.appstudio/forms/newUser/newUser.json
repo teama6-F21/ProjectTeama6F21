@@ -2,7 +2,7 @@
   "!type": "Form",
   "HTML": null,
   "attributes": "",
-  "background": "",
+  "background": "#2993F0",
   "backgroundimage": "",
   "borderColor": "",
   "borderStyle": "",
@@ -34,6 +34,24 @@
         "forms",
         "newUser",
         "Elements",
+        "inptPass.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newUser",
+        "Elements",
+        "inptUserName.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newUser",
+        "Elements",
         "inptEmail.json"
       ]
     },
@@ -43,16 +61,43 @@
         "forms",
         "newUser",
         "Elements",
-        "inptPass.json"
+        "Image1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newUser",
+        "Elements",
+        "lblHeader.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newUser",
+        "Elements",
+        "btnCreateNewUser.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newUser",
+        "Elements",
+        "btnReturnToLogin.json"
       ]
     }
   ],
   "class": "",
-  "designHeight": 0,
+  "designHeight": 1000,
   "designWidth": 0,
   "expanded_pmp": null,
   "fullScreen": "true",
-  "height": 460,
+  "height": "1000",
   "id": "newUser",
   "language": "JavaScript",
   "left": "0",

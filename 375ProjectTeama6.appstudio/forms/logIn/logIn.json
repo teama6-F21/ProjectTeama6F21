@@ -2,23 +2,14 @@
   "!type": "Form",
   "HTML": null,
   "attributes": "",
-  "background": "",
+  "background": "#2993F0",
   "backgroundimage": "",
-  "borderColor": "",
+  "borderColor": "#2993F0",
   "borderStyle": "",
   "borderWidth": "",
   "cached_js": null,
   "cached_js_script_hash": null,
   "children": [
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "logIn",
-        "Elements",
-        "txtHeader.json"
-      ]
-    },
     {
       "!type": "External",
       "file": [
@@ -54,14 +45,23 @@
         "Elements",
         "btnNewUser.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "logIn",
+        "Elements",
+        "imgLogo.json"
+      ]
     }
   ],
   "class": "",
-  "designHeight": 0,
+  "designHeight": 500,
   "designWidth": 0,
   "expanded_pmp": null,
   "fullScreen": "true",
-  "height": 460,
+  "height": "500",
   "id": "logIn",
   "language": "JavaScript",
   "left": "0",

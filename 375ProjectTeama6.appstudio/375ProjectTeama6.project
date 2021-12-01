@@ -63,6 +63,22 @@
             "newUser",
             "newUser.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "landingPage",
+            "landingPage.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "Form2",
+            "Form2.json"
+          ]
         }
       ],
       "configxml": null,
